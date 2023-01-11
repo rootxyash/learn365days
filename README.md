@@ -6,3 +6,7 @@ This repository contains all the information shared during my Learn 365 Challeng
 Day  | Topic
 --- | ---
 **1** | [<ul><li>Learn Javascript </li><li> GraphQL Pentesting for Dummies </li><li> Learn Bash </li><li> THM Lab </li></ul>](/days/day1.md)
+**2** | [<ul><li>Learn Javascript </li><li> Understanding Broken Access Control issues </li><li> Broken Access Control (IDOR) exploitation </li></ul>](/days/day2.md)
+
+
+
