@@ -21,6 +21,7 @@ Day  | Topic
 **14** | [<ul><li>Finding The Origin IP Behind CDNs - Writeup</li><li> CVE-2022-42710: A journey through XXE to Stored-XSS  - Writeup</li></ul>](/days/day14.md) 
 **15** | [<ul><li>How I was able to steal users credentials via Swagger UI DOM-XSS - Writeup</li><li> CVE-2021-40662 Chamilo LMS 1.11.14 RCEn  - Writeup</li></ul>](/days/day15.md) 
 **16** | [<ul><li>120 Days of High Frequency Hunting - WriteUp </li><li> Simple CORS misconfig leads to disclose the sensitive token  - Writeup</li></ul>](/days/day16.md)
+**17** | [<ul><li>Advanced Broken Access Control (IDOR) exploitation- WriteUp </li><li> Outdated PHP Version leads to RCE  - Writeup</li></ul>](/days/day17.md)
 
 
 
