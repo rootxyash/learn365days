@@ -23,6 +23,7 @@ Day  | Topic
 **16** | [<ul><li>120 Days of High Frequency Hunting - WriteUp </li><li> Simple CORS misconfig leads to disclose the sensitive token  - Writeup</li></ul>](/days/day16.md)
 **17** | [<ul><li>Advanced Broken Access Control (IDOR) exploitation- WriteUp </li><li> Outdated PHP Version leads to RCE  - Writeup</li></ul>](/days/day17.md)
 **18** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day18.md)
+**19** | [<ul><li>Server-Side Request Forgery (SSRF) Vulnerabilities in Four Different Azure Services - WriteUp </li><li> Account Take Over Due To AWS Cognito Misconfiguration - Writeup</li></ul>](/days/day19.md)
 
 
 
