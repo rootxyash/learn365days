@@ -24,7 +24,7 @@ Day  | Topic
 **17** | [<ul><li>Advanced Broken Access Control (IDOR) exploitation- WriteUp </li><li> Outdated PHP Version leads to RCE  - Writeup</li></ul>](/days/day17.md)
 **18** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day18.md)
 **19** | [<ul><li>Server-Side Request Forgery (SSRF) Vulnerabilities in Four Different Azure Services - WriteUp </li><li> Account Take Over Due To AWS Cognito Misconfiguration - Writeup</li></ul>](/days/day19.md)
-**20** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day20.md)
+**20** | [<ul><li>Automated monitoring of subdomains for fun and profit - WriteUp </li><li> Understanding the full potential of sqlmap during bug bounty hunting - Writeup</li></ul>](/days/day20.md)
 **21** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day21.md)
 **22** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day22.md)
 **23** | [<ul><li>Full Team Takeover - WriteUp </li><li> 3 Vulnerabilities Worth $$$ - Writeup</li></ul>](/days/day23.md)
